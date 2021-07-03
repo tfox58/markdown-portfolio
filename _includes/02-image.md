@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Paul MacLean](https://www.fanphobia.net/uploads/actors/6880/100x100_1039599766_Capture.PNG)
